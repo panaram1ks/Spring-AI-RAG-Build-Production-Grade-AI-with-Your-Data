@@ -1,0 +1,5 @@
+# Скачать LLM для чата
+ollama pull llama3.2
+
+# Скачать модель для эмбеддингов (обязательно отдельная!)
+ollama pull nomic-embed-text
